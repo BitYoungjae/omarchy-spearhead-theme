@@ -1,0 +1,24 @@
+/* Nord Theme for SwayOSD */
+/* Polar Night */
+@define-color nord0 #2E3440;
+@define-color nord1 #3B4252;
+@define-color nord2 #434C5E;
+@define-color nord3 #4C566A;
+
+/* Snow Storm */
+@define-color nord4 #D8DEE9;
+@define-color nord5 #E5E9F0;
+@define-color nord6 #ECEFF4;
+
+/* Frost */
+@define-color nord7 #8FBCBB;
+@define-color nord8 #88C0D0;
+@define-color nord9 #81A1C1;
+@define-color nord10 #5E81AC;
+
+/* Applied Colors */
+@define-color background-color @nord0;
+@define-color border-color @nord3;
+@define-color label @nord4;
+@define-color image @nord8;
+@define-color progress @nord8;
